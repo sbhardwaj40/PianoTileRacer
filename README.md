@@ -73,4 +73,4 @@ The View Highscore Screen shows the top five scores for each game duration. The 
 Four rows of black piano tiles are randomly generated and displayed on the LCD screen. The player advances in the game by pressing the correct corresponding touchpad key (0 - 3) to the piano tile shown on the bottom row. A countdown timer and the player's current score are shown on the right side of the screen. The game ends when the timer reaches 0 or a player presses an incorrect key. 
 
 ## Project Features and Gameplay Demo
-https://www.youtube.com/watch?v=elqrJ6IbV74&authuser=0
+[![Project Demo](https://img.youtube.com/vi/elqrJ6IbV74/0.jpg)](https://www.youtube.com/watch?v=elqrJ6IbV74)
