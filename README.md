@@ -2,7 +2,7 @@
 
 #### Team Members: Sheel Bhardwaj, Alan Ko
 
-Want to play Piano Tiles but don't have a smartphone? Our project is an mbed rendition of the popular mobile game Piano Tiles. Points are gained for every correct tile pressed on the touhcpad, and each correct note is outputted to the speaker. There are different game modes that increase in intensity and time duration, as well as a wide array of musical pieces to choose from. High scores for each intensity are stored to a micro SD card and can always be viewed. With that, good luck and aim for the highest score!
+Want to play Piano Tiles but don't have a smartphone? Our project is an mbed rendition of the popular mobile game Piano Tiles. Points are gained for every correct tile pressed on the touhcpad, and each correct note is outputted to the speaker. There are different game modes that vary the time duration, as well as a wide array of musical pieces to choose from. High scores for each intensity are stored to a micro SD card and can always be viewed. With that, good luck and aim for the highest score!
 
 ## Setup
 
