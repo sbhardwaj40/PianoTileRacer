@@ -70,7 +70,7 @@ The View Highscore Screen shows the top five scores for each game duration. The 
 ### Gameplay
 ![gameplay](https://user-images.githubusercontent.com/57376146/117071915-b8ad4a80-acfd-11eb-8cbc-566d4b194188.jpg)\
 
-Four rows of black piano tiles are randomly generated and displayed on the LCD screen. The player advances in the game by pressing the correct corresponding touchpad key (0 - 3) to the piano tile shown on the bottom row. A countdown timer and the player's current score are shwon on the right side of the screen. The game ends when the timer reaches 0 or a player presses an incorrect key. 
+Four rows of black piano tiles are randomly generated and displayed on the LCD screen. The player advances in the game by pressing the correct corresponding touchpad key (0 - 3) to the piano tile shown on the bottom row. A countdown timer and the player's current score are shown on the right side of the screen. The game ends when the timer reaches 0 or a player presses an incorrect key. 
 
 
 
